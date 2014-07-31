@@ -8,6 +8,7 @@
 #import "MGWUCharacter.h"
 
 @interface MyCharacter : MGWUCharacter
+- (void) hi;
 
 -(void)jump;
 
