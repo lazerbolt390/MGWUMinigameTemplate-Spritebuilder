@@ -96,6 +96,8 @@
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+		<key>GameOfLifeAssets</key>
+		<dict/>
 		<key>Sprites</key>
 		<dict/>
 		<key>backgrounds/backgroundsBubbles</key>
@@ -297,9 +299,15 @@
 		</dict>
 		<key>items</key>
 		<dict>
+			<key>isDirty</key>
+			<true/>
 			<key>isSmartSpriteSheet</key>
 			<true/>
 		</dict>
+		<key>items/item_target_1 .png</key>
+		<dict/>
+		<key>items/item_target_1.png</key>
+		<dict/>
 		<key>tiles</key>
 		<dict>
 			<key>isSmartSpriteSheet</key>

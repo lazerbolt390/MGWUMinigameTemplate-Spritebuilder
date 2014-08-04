@@ -13,6 +13,7 @@
     BOOL _isJumping;
     BOOL _isFalling;
     BOOL _isLanding;
+    
 }
 
 -(id)init {

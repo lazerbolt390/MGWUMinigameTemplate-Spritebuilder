@@ -12,7 +12,7 @@
 -(id)init {
     if ((self = [super init])) {
         // Initialize any arrays, dictionaries, etc in here
-        self.instructions = @"These are the game instructions :D";
+        self.instructions = @"Tap the target to gain points time limit is one minute your score will be displayed at the end of the game :D";
     }
     return self;
 }
