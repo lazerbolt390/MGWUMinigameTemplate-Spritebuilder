@@ -8,6 +8,8 @@
 
 @property (nonatomic, assign) NSInteger livingNeighbors;
 
+items/item_target_2.png.scale = 5;
+
 - (id)initTarget;
 
 

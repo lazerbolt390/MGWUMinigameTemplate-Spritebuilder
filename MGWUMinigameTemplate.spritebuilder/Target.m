@@ -10,9 +10,12 @@
 
 @implementation Target
 
+
 - (instancetype)initTarget {
     
-    self = [super initWithImageNamed:@"GameOfLifeAssets/Buttons/button.png"];
+    self = [super initWithImageNamed:@"items/item_target_2.png"];
+    
+
     
     if (self) {
         self.isAlive = NO;
@@ -27,5 +30,6 @@
     
     self.visible = _isAlive;
 }
+
 
 @end
